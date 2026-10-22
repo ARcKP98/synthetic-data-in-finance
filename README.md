@@ -1,6 +1,6 @@
 # Synthetic Data in finance (Research project)
 All the notebooks and thesis material for the thesis
-CTGAN Config notebook is not updated and the latest one can be found on [Google Drive]((https://drive.google.com/drive/folders/1QbSBPdyZyFBWxhyMgSr6M0Idu8auGH2o?usp=sharing)) in notebooks
+CTGAN Config notebook is not updated and the latest one can be found on [Google Drive](https://drive.google.com/drive/folders/1QbSBPdyZyFBWxhyMgSr6M0Idu8auGH2o?usp=sharing) in notebooks
 
 RQs
 Main RQ: How do CTGAN hyperparameter configurations affect the tradeoff between fidelity, utility, and fairness in synthetic financial data generation?
